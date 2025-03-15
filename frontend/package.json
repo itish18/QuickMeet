@@ -11,10 +11,16 @@
   "dependencies": {
     "@heroicons/react": "^2.2.0",
     "date-fns": "^4.1.0",
+    "install": "^0.13.0",
     "next": "15.1.6",
+    "npm": "^11.2.0",
+    "peer": "^1.0.2",
     "peerjs": "^1.5.4",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
+    "react-icons": "^5.5.0",
+    "socket.io": "^4.8.1",
+    "socket.io-client": "^4.8.1",
     "uuid": "^11.0.5"
   },
   "devDependencies": {
